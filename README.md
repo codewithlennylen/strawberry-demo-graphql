@@ -20,7 +20,7 @@
 
 This project demonstrates a simple GraphQL API using the Strawberry library in Python.
 
-
+<a href="https://strawberry.rocks/docs">Strawberry Docs</a>
 
 ## Getting Started
 
